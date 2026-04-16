@@ -138,3 +138,19 @@ This project is open-source and available under the MIT License.
 **Nayan Chander Reddy**
 
 ---
+
+
+Commands to use
+
+To Create virtual Env :   python -m venv venv
+
+Open Command prompt then locate your folder
+
+To activate Virtual Env: venv\Scripts\activate
+
+To install : pip install flask requests
+
+Run the command python app.py
+
+Copy URL http://127.0.0.1:5000/ and paste it on browser and press enter.
+
